@@ -1,0 +1,9 @@
+Module 8: Reinforcement Learning
+Lab Practice 8.2
+Title: Hands-on: Training an AI to Navigate a Maze Using Q-Learning
+Problem Statement:
+Reinforcement Learning (RL) enables AI agents to learn optimal strategies by
+interacting with an environment. In this project, we train an AI agent to navigate a maze
+using Q-learning, a fundamental RL algorithm. The goal is for the agent to reach the
+target (goal) from the starting position while avoiding unnecessary moves. The agent
+learns through trial and error, improving its decision-making over multiple episodes. 
