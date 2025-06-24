@@ -1,1 +1,2 @@
-# AI Developer Course
+# AI Developer Course Projects
+
