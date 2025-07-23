@@ -1,2 +1,2 @@
-# AI Developer Course Projects
+# AI Developer Course Projects.
 
